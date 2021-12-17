@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\bin\Debug\netcoreapp3.1\ConsoleApp1207.exe
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\bin\Debug\netcoreapp3.1\ConsoleApp1207.deps.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\bin\Debug\netcoreapp3.1\ConsoleApp1207.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\bin\Debug\netcoreapp3.1\ConsoleApp1207.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\bin\Debug\netcoreapp3.1\ConsoleApp1207.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\bin\Debug\netcoreapp3.1\ConsoleApp1207.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\obj\Debug\netcoreapp3.1\ConsoleApp1207.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\obj\Debug\netcoreapp3.1\ConsoleApp1207.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\obj\Debug\netcoreapp3.1\ConsoleApp1207.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\obj\Debug\netcoreapp3.1\ConsoleApp1207.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\obj\Debug\netcoreapp3.1\ConsoleApp1207.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\obj\Debug\netcoreapp3.1\ConsoleApp1207.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\obj\Debug\netcoreapp3.1\ConsoleApp1207.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1207\ConsoleApp1207\obj\Debug\netcoreapp3.1\ConsoleApp1207.genruntimeconfig.cache

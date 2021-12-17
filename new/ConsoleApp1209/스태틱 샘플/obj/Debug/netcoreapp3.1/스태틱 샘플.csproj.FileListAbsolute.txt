@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\스태틱 샘플\obj\Debug\netcoreapp3.1\스태틱 샘플.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\스태틱 샘플\obj\Debug\netcoreapp3.1\스태틱 샘플.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\스태틱 샘플\obj\Debug\netcoreapp3.1\스태틱 샘플.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\스태틱 샘플\obj\Debug\netcoreapp3.1\스태틱 샘플.csproj.CoreCompileInputs.cache

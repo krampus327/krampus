@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1214-1", "Console
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1214-2", "ConsoleApp1214-2\ConsoleApp1214-2.csproj", "{C2F8C08A-9292-431D-B3C4-DB7730337B19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1216", "ConsoleApp1216\ConsoleApp1216.csproj", "{4C7AE18B-9C6B-42F8-B5B9-90336BC4CE5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1216", "ConsoleApp1216\ConsoleApp1216.csproj", "{4C7AE18B-9C6B-42F8-B5B9-90336BC4CE5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "스태틱 샘플", "스태틱 샘플\스태틱 샘플.csproj", "{D524F63F-2C5E-40DF-8C81-F3665A67369A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "스태틱 샘플", "스태틱 샘플\스태틱 샘플.csproj", "{D524F63F-2C5E-40DF-8C81-F3665A67369A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity lesson Cshap operate", "Unity lesson Cshap operate\Unity lesson Cshap operate.csproj", "{3C2FBF5A-98C2-4EDF-A624-EFCDE399D4DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{D524F63F-2C5E-40DF-8C81-F3665A67369A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D524F63F-2C5E-40DF-8C81-F3665A67369A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D524F63F-2C5E-40DF-8C81-F3665A67369A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2FBF5A-98C2-4EDF-A624-EFCDE399D4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2FBF5A-98C2-4EDF-A624-EFCDE399D4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2FBF5A-98C2-4EDF-A624-EFCDE399D4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2FBF5A-98C2-4EDF-A624-EFCDE399D4DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

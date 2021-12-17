@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\bin\Debug\netcoreapp3.1\Unity lesson Cshap operate.exe
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\bin\Debug\netcoreapp3.1\Unity lesson Cshap operate.deps.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\bin\Debug\netcoreapp3.1\Unity lesson Cshap operate.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\bin\Debug\netcoreapp3.1\Unity lesson Cshap operate.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\bin\Debug\netcoreapp3.1\Unity lesson Cshap operate.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\bin\Debug\netcoreapp3.1\Unity lesson Cshap operate.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\obj\Debug\netcoreapp3.1\Unity lesson Cshap operate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\obj\Debug\netcoreapp3.1\Unity lesson Cshap operate.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\obj\Debug\netcoreapp3.1\Unity lesson Cshap operate.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\obj\Debug\netcoreapp3.1\Unity lesson Cshap operate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\obj\Debug\netcoreapp3.1\Unity lesson Cshap operate.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\obj\Debug\netcoreapp3.1\Unity lesson Cshap operate.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\Unity lesson Cshap operate\obj\Debug\netcoreapp3.1\Unity lesson Cshap operate.genruntimeconfig.cache

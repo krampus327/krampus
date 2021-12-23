@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\obj\Debug\netcoreapp3.1\C샵 array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\obj\Debug\netcoreapp3.1\C샵 array.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\obj\Debug\netcoreapp3.1\C샵 array.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\obj\Debug\netcoreapp3.1\C샵 array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\bin\Debug\netcoreapp3.1\C샵 array.exe
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\bin\Debug\netcoreapp3.1\C샵 array.deps.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\bin\Debug\netcoreapp3.1\C샵 array.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\bin\Debug\netcoreapp3.1\C샵 array.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\bin\Debug\netcoreapp3.1\C샵 array.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\bin\Debug\netcoreapp3.1\C샵 array.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\obj\Debug\netcoreapp3.1\C샵 array.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\obj\Debug\netcoreapp3.1\C샵 array.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\C샵 array\obj\Debug\netcoreapp3.1\C샵 array.genruntimeconfig.cache

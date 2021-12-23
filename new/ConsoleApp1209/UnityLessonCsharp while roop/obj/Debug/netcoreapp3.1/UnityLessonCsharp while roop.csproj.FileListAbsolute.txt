@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\bin\Debug\netcoreapp3.1\UnityLessonCsharp while roop.exe
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\bin\Debug\netcoreapp3.1\UnityLessonCsharp while roop.deps.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\bin\Debug\netcoreapp3.1\UnityLessonCsharp while roop.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\bin\Debug\netcoreapp3.1\UnityLessonCsharp while roop.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\bin\Debug\netcoreapp3.1\UnityLessonCsharp while roop.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\bin\Debug\netcoreapp3.1\UnityLessonCsharp while roop.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\obj\Debug\netcoreapp3.1\UnityLessonCsharp while roop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\obj\Debug\netcoreapp3.1\UnityLessonCsharp while roop.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\obj\Debug\netcoreapp3.1\UnityLessonCsharp while roop.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\obj\Debug\netcoreapp3.1\UnityLessonCsharp while roop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\obj\Debug\netcoreapp3.1\UnityLessonCsharp while roop.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\obj\Debug\netcoreapp3.1\UnityLessonCsharp while roop.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp while roop\obj\Debug\netcoreapp3.1\UnityLessonCsharp while roop.genruntimeconfig.cache

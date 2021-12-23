@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.csproj.CoreCompileInputs.cache

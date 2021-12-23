@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\obj\Debug\netcoreapp3.1\UnityLessonCsharp forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\obj\Debug\netcoreapp3.1\UnityLessonCsharp forloop.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\obj\Debug\netcoreapp3.1\UnityLessonCsharp forloop.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\obj\Debug\netcoreapp3.1\UnityLessonCsharp forloop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\bin\Debug\netcoreapp3.1\UnityLessonCsharp forloop.exe
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\bin\Debug\netcoreapp3.1\UnityLessonCsharp forloop.deps.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\bin\Debug\netcoreapp3.1\UnityLessonCsharp forloop.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\bin\Debug\netcoreapp3.1\UnityLessonCsharp forloop.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\bin\Debug\netcoreapp3.1\UnityLessonCsharp forloop.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\bin\Debug\netcoreapp3.1\UnityLessonCsharp forloop.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\obj\Debug\netcoreapp3.1\UnityLessonCsharp forloop.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\obj\Debug\netcoreapp3.1\UnityLessonCsharp forloop.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp forloop\obj\Debug\netcoreapp3.1\UnityLessonCsharp forloop.genruntimeconfig.cache

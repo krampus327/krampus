@@ -134,3 +134,7 @@ namespace Unity_lesson_Cshap_operate
         STATE_4 = 1 << 3.
     }
 }
+
+//함수 오버로딩
+//같은 기능을 수행ㅇ하는 함수의 이름을 똑같이하고
+//인수(arguments)의  타입만 변경하면 같은 이름의 함수를 여러개 만들 수 있는 기능

@@ -3,3 +3,12 @@ C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp For
 C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.AssemblyInfoInputs.cache
 C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.AssemblyInfo.cs
 C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\bin\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.exe
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\bin\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.deps.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\bin\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\bin\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\bin\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\bin\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp ForLoopExample\obj\Debug\netcoreapp3.1\UnityLessonCsharp ForLoopExample.genruntimeconfig.cache

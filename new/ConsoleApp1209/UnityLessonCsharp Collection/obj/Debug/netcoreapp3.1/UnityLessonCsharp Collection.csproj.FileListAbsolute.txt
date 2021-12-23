@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\bin\Debug\netcoreapp3.1\UnityLessonCsharp Collection.exe
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\bin\Debug\netcoreapp3.1\UnityLessonCsharp Collection.deps.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\bin\Debug\netcoreapp3.1\UnityLessonCsharp Collection.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\bin\Debug\netcoreapp3.1\UnityLessonCsharp Collection.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\bin\Debug\netcoreapp3.1\UnityLessonCsharp Collection.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\bin\Debug\netcoreapp3.1\UnityLessonCsharp Collection.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\obj\Debug\netcoreapp3.1\UnityLessonCsharp Collection.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\obj\Debug\netcoreapp3.1\UnityLessonCsharp Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\obj\Debug\netcoreapp3.1\UnityLessonCsharp Collection.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\obj\Debug\netcoreapp3.1\UnityLessonCsharp Collection.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\obj\Debug\netcoreapp3.1\UnityLessonCsharp Collection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\obj\Debug\netcoreapp3.1\UnityLessonCsharp Collection.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\obj\Debug\netcoreapp3.1\UnityLessonCsharp Collection.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharp Collection\obj\Debug\netcoreapp3.1\UnityLessonCsharp Collection.genruntimeconfig.cache

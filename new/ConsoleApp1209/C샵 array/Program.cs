@@ -47,3 +47,7 @@ namespace C샵_array
 //반복문 1.for문 , 2.while문 3.foreach문 4.do while문
 
 //분기문 1.if문 2.swich-case문
+
+//collection
+// : 동적 데이터 타입
+// list, dictionary, stack, queue

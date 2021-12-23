@@ -23,15 +23,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "스태틱 샘플", "스태�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity lesson Cshap operate", "Unity lesson Cshap operate\Unity lesson Cshap operate.csproj", "{3C2FBF5A-98C2-4EDF-A624-EFCDE399D4DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C샵 array", "C샵 array\C샵 array.csproj", "{EFB09A11-E155-4657-A99F-579F84F47054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C샵 array", "C샵 array\C샵 array.csproj", "{EFB09A11-E155-4657-A99F-579F84F47054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLessonCsharp while roop", "UnityLessonCsharp while roop\UnityLessonCsharp while roop.csproj", "{B95D9506-F444-4450-9F74-16BE8A8976A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLessonCsharp while roop", "UnityLessonCsharp while roop\UnityLessonCsharp while roop.csproj", "{B95D9506-F444-4450-9F74-16BE8A8976A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLessonCsharp forroop", "UnityLessonCsharp forroop\UnityLessonCsharp forroop.csproj", "{20FD7476-32CC-4C42-886C-0D864A24E596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLessonCsharp forroop", "UnityLessonCsharp forroop\UnityLessonCsharp forroop.csproj", "{20FD7476-32CC-4C42-886C-0D864A24E596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLessonCsharp forloop", "UnityLessonCsharp forloop\UnityLessonCsharp forloop.csproj", "{D88D90EC-8124-48D1-A51F-969C190D6EEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLessonCsharp forloop", "UnityLessonCsharp forloop\UnityLessonCsharp forloop.csproj", "{D88D90EC-8124-48D1-A51F-969C190D6EEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLessonCsharp ForLoopExample", "UnityLessonCsharp ForLoopExample\UnityLessonCsharp ForLoopExample.csproj", "{F8700DB3-5B8D-4D6F-8E97-69E000390DF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLessonCsharp ForLoopExample", "UnityLessonCsharp ForLoopExample\UnityLessonCsharp ForLoopExample.csproj", "{F8700DB3-5B8D-4D6F-8E97-69E000390DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLessonCsharp Collection", "UnityLessonCsharp Collection\UnityLessonCsharp Collection.csproj", "{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{F8700DB3-5B8D-4D6F-8E97-69E000390DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8700DB3-5B8D-4D6F-8E97-69E000390DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8700DB3-5B8D-4D6F-8E97-69E000390DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

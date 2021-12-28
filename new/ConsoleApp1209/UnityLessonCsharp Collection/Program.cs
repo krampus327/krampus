@@ -63,19 +63,63 @@ namespace UnityLessonCsharp_Collection
 
             foreach (KeyValuePair<string, string> sub in _dic)
             {
-                string tmpKey = sub, Key;
-                string tmpValue = subValue;
-                Console.WriteLine($"{tmpKey}: {}")
+                string tmpKey = sub.Key;
+                string tmpValue = sub.Value;
+                Console.WriteLine($"{tmpKey}: {tmpValue}");
             }
+            // 위 세가지 경우가 있지만,  
 
-            
-            //----------------------------------------------------
-            //Stack
-            //----------------------------------------------------
+            // dictionary 는 단어 뜻대로 사전 처럼 사용하기 위한 collection 이다. 
+
+            // 우리가 사전을 찾을때 ,  
+
+            // 단어를 먼저 찾고 거기에 따라 단어의 뜻을 찾는다.  
+
+            // dictionary 에서 key 는 단어, value 는 단어의 뜻과 같은 역할이다. 
+
+            // 따라서 foreach 문을 사용해서 접근할때도, 
+
+            // dictionary 의 key 로 반복문을 통해 접근하는 경우가 대부분이지,  
+
+            // value 나 dictionary 자체로 접근하는 경우는 잘 없다.  
+
+            // 마치 '사과' 라는 단어를 검색하면 '사과나무에서 열리는 열매' 라는 뜻을 찾는것이지 
+
+            // '사과나무에서 열리는 열매' 를 검색해서 '사과'를 찾거나 
+
+            // '사과 : 사과나무에서 열리는 열매' 자체를 검색하지 않는것과 같다고 생각하면 된다.
 
             //----------------------------------------------------
-            //queue
+            //queue (list와 비슷하나 FIFO = first input, first out체계이다.)
             //----------------------------------------------------
+            Queue<int> _queue = new Queue<int>();
+
+            _queue.Enqueue(10);
+            _queue.Enqueue(20);
+            _queue.Enqueue(30);
+
+            Console.WriteLine(_queue.Peek()); //가장 첫번째에 있는 값을 반환
+            Console.WriteLine(_queue.Dequeue());//Queue의 가장 첫번재에 있는 값을 제거하고 반환
+            Console.WriteLine(_queue.Dequeue());
+            Console.WriteLine(_queue.Dequeue());
+
+            //_queue.Dequeue(); //10빠져나옴
+            //_queue.Dequeue(); //20빠져나옴
+            //_queue.Dequeue(); //30빠져나옴
+
+            //----------------------------------------------------
+            //Stack (list와 비슷하나 LIFO = Last input, First out의 체계이다.
+            //----------------------------------------------------
+            Stack<int> _stack = new Stack<int>();
+
+            _stack.Push(10);
+            _stack.Push(20);
+            _stack.Push(30);
+
+            Console.WriteLine(_stack.Peek());
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
+            Console.WriteLine(_stack.Pop());
         }
     }
 }

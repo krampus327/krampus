@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLessonCsharp forloop",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLessonCsharp ForLoopExample", "UnityLessonCsharp ForLoopExample\UnityLessonCsharp ForLoopExample.csproj", "{F8700DB3-5B8D-4D6F-8E97-69E000390DF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLessonCsharp Collection", "UnityLessonCsharp Collection\UnityLessonCsharp Collection.csproj", "{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLessonCsharp Collection", "UnityLessonCsharp Collection\UnityLessonCsharp Collection.csproj", "{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLessonCsharpEnum", "UnityLessonCsharpEnum\UnityLessonCsharpEnum.csproj", "{30B35FC0-2772-4901-A799-16CBE8A8A609}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD1E76E6-E417-4037-BCDA-73F5DD47FC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B35FC0-2772-4901-A799-16CBE8A8A609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B35FC0-2772-4901-A799-16CBE8A8A609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B35FC0-2772-4901-A799-16CBE8A8A609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B35FC0-2772-4901-A799-16CBE8A8A609}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\bin\Debug\netcoreapp3.1\UnityLessonCsharpEnum.exe
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\bin\Debug\netcoreapp3.1\UnityLessonCsharpEnum.deps.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\bin\Debug\netcoreapp3.1\UnityLessonCsharpEnum.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\bin\Debug\netcoreapp3.1\UnityLessonCsharpEnum.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\bin\Debug\netcoreapp3.1\UnityLessonCsharpEnum.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\bin\Debug\netcoreapp3.1\UnityLessonCsharpEnum.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\obj\Debug\netcoreapp3.1\UnityLessonCsharpEnum.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\obj\Debug\netcoreapp3.1\UnityLessonCsharpEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\obj\Debug\netcoreapp3.1\UnityLessonCsharpEnum.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\obj\Debug\netcoreapp3.1\UnityLessonCsharpEnum.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\obj\Debug\netcoreapp3.1\UnityLessonCsharpEnum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\obj\Debug\netcoreapp3.1\UnityLessonCsharpEnum.dll
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\obj\Debug\netcoreapp3.1\UnityLessonCsharpEnum.pdb
+C:\Users\Admin\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpEnum\obj\Debug\netcoreapp3.1\UnityLessonCsharpEnum.genruntimeconfig.cache

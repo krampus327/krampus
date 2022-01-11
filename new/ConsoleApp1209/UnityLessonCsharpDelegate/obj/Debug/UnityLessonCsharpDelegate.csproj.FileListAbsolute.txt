@@ -1,0 +1,3 @@
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDelegate\obj\Debug\UnityLessonCsharpDelegate.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDelegate\obj\Debug\UnityLessonCsharpDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDelegate\obj\Debug\UnityLessonCsharpDelegate.csproj.CoreCompileInputs.cache

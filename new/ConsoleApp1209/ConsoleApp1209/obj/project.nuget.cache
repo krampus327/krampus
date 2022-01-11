@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kP/koKwpla+2CymgLK0Taki8klJhQibRzcyy66XvRSWZ0jg1z9Q3c0tPHfM1mjKbHdW3AB76Zmiygl0OJmV+TQ==",
+  "dgSpecHash": "a06HE3tuSrlKpBMrqL8vIppFAXHlm34UhNm9s6V2F7dlVlMZZ5xbm8nj7j4yu/hVHPonf0+0KrY5p9s1s2+XRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\krampus\\new\\ConsoleApp1209\\ConsoleApp1209\\ConsoleApp1209.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\krampus\\new\\ConsoleApp1209\\ConsoleApp1209\\ConsoleApp1209.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

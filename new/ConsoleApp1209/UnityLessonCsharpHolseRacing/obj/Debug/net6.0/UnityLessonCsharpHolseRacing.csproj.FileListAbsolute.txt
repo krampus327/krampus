@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpHolseRacing\obj\Debug\net6.0\UnityLessonCsharpHolseRacing.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpHolseRacing\obj\Debug\net6.0\UnityLessonCsharpHolseRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpHolseRacing\obj\Debug\net6.0\UnityLessonCsharpHolseRacing.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpHolseRacing\obj\Debug\net6.0\UnityLessonCsharpHolseRacing.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpHolseRacing\obj\Debug\net6.0\UnityLessonCsharpHolseRacing.csproj.CoreCompileInputs.cache

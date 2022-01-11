@@ -10,7 +10,7 @@
 
 // 각 오크가 쉬고있는지 확인해서 쉬고있다면 점프하도록 한다. 
 
-namespace UnityLesson_CSharp_ForLoopExample
+namespace UnityLessonCsharp_ForLoopExample
 
 {
 

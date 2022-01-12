@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30b35fc0-2772-4901-a799-16cbe8a8a609": {
+      "ProjectGuid": "30b35fc0-2772-4901-a799-16cbe8a8a609",
+      "DisplayName": "UnityLessonCsharpEnum",
+      "ColorIndex": 0
+    },
+    "2fa62fe6-3829-4256-ab3b-213844e7c5f1": {
+      "ProjectGuid": "2fa62fe6-3829-4256-ab3b-213844e7c5f1",
+      "DisplayName": "UnityLessonCsharpDelegate",
+      "ColorIndex": 1
+    },
+    "40876cc9-50ea-4e0f-be93-53efe43b42d3": {
+      "ProjectGuid": "40876cc9-50ea-4e0f-be93-53efe43b42d3",
+      "DisplayName": "UnityLessonCsharp Delegate",
+      "ColorIndex": 2
+    },
+    "82939557-210b-40d9-a8db-0a392dca3177": {
+      "ProjectGuid": "82939557-210b-40d9-a8db-0a392dca3177",
+      "DisplayName": "UnityLessonCsharpHolseRacing",
+      "ColorIndex": 3
+    },
+    "d389b443-a91b-4d83-b34b-1f353c04757c": {
+      "ProjectGuid": "d389b443-a91b-4d83-b34b-1f353c04757c",
+      "DisplayName": "ConsoleApp1209-3",
+      "ColorIndex": 4
+    },
+    "e66c75d2-16c0-4a73-ad96-ce4d0c6da887": {
+      "ProjectGuid": "e66c75d2-16c0-4a73-ad96-ce4d0c6da887",
+      "DisplayName": "ConsoleApp1209",
+      "ColorIndex": 5
+    },
+    "3c2fbf5a-98c2-4edf-a624-efcde399d4da": {
+      "ProjectGuid": "3c2fbf5a-98c2-4edf-a624-efcde399d4da",
+      "DisplayName": "Unity lesson Cshap operate",
+      "ColorIndex": 6
+    },
+    "044c8737-ed13-4106-9c33-e03b90e156ed": {
+      "ProjectGuid": "044c8737-ed13-4106-9c33-e03b90e156ed",
+      "DisplayName": "UnityLessonCsarp Solid",
+      "ColorIndex": 7
+    },
+    "fd1e76e6-e417-4037-bcda-73f5dd47fc66": {
+      "ProjectGuid": "fd1e76e6-e417-4037-bcda-73f5dd47fc66",
+      "DisplayName": "UnityLessonCsharp Collection",
+      "ColorIndex": 8
+    },
+    "c174b6c8-96c6-4c8f-8a5f-f469d31064b7": {
+      "ProjectGuid": "c174b6c8-96c6-4c8f-8a5f-f469d31064b7",
+      "DisplayName": "UnityLessonCsharp",
+      "ColorIndex": 9
+    },
+    "f0b1259d-8c3f-48ca-8c3c-696fdde07c42": {
+      "ProjectGuid": "f0b1259d-8c3f-48ca-8c3c-696fdde07c42",
+      "DisplayName": "UnityLessonCsharpDiceGame",
+      "ColorIndex": 10
+    },
+    "ee936570-8f2f-4353-bd6d-e8167ad86bc2": {
+      "ProjectGuid": "ee936570-8f2f-4353-bd6d-e8167ad86bc2",
+      "DisplayName": "UnityLessonCsharpClassInheritance",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

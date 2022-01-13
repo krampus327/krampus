@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\UnityLessonCsharpDiceGame.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\UnityLessonCsharpDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\UnityLessonCsharpDiceGame.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\UnityLessonCsharpDiceGame.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\UnityLessonCsharpDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\bin\Debug\net6.0\UnityLessonCsharpDiceGame.exe
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\bin\Debug\net6.0\UnityLessonCsharpDiceGame.deps.json
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\bin\Debug\net6.0\UnityLessonCsharpDiceGame.runtimeconfig.json
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\bin\Debug\net6.0\UnityLessonCsharpDiceGame.dll
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\bin\Debug\net6.0\ref\UnityLessonCsharpDiceGame.dll
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\bin\Debug\net6.0\UnityLessonCsharpDiceGame.pdb
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\UnityLessonCsharpDiceGame.dll
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\ref\UnityLessonCsharpDiceGame.dll
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\UnityLessonCsharpDiceGame.pdb
+C:\Users\User\Documents\GitHub\krampus\new\ConsoleApp1209\UnityLessonCsharpDiceGame\obj\Debug\net6.0\UnityLessonCsharpDiceGame.genruntimeconfig.cache

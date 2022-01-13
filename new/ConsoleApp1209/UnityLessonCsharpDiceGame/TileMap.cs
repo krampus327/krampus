@@ -8,15 +8,17 @@ namespace UnityLessonCsharpDiceGame
 {
     internal class TileMap
     {
-        public Dictionary<int, Tileinfo> dic_tile = new Dictionary<int, Tileinfo>();
+        public Dictionary<int, TileInfo> dic_tile = new Dictionary<int, TileInfo>(); // 칸 번호, 칸 정보를 저장할 사전
 
+        // maxTileNum만큼 칸을 생성하는 함수
         public void MapSetup(int maxTileNum)
         {
             for (int i = 0; i < maxTileNum; i++)
             {
                 if (i / 5 == 0)
                 {
-                    Tileinfo Tileinfo_Star = new Tileinfo_Star();
+                    // 샛별칸 생성
+                    TileInfo Tileinfo_Star = new TileInfo_Star();
                     Tileinfo_Star.index = i;
                     Tileinfo_Star.name = "Star";
                     Tileinfo_Star.discription = "This is star tile. You'll get star and star amout on this tile increase 1";
@@ -24,14 +26,16 @@ namespace UnityLessonCsharpDiceGame
                 }
                 else
                 {
-                    Tileinfo tileinfo_Dummy = new Tileinfo();
-                    tileinfo_Dummy.index = i;
-                    tileinfo_Dummy.name = "Dummy";
-                    tileinfo_Dummy.discription = "This is Dummy Tile";
-                    dic_tile.Add(i, tileinfo_Dummy);
+                    // 일반칸 생성
+                    TileInfo tileInfo_Dummy = new TileInfo();
+                    tileInfo_Dummy.index = i;
+                    tileInfo_Dummy.name = "Dummy";
+                    tileInfo_Dummy.discription = "This is Dummy Tile";
+                    dic_tile.Add(i, tileInfo_Dummy);
                 }
 
             }
+            Console.WriteLine($"Map setup complete. Maximum tile number is{maxTileNum}");
         }
     }
 }

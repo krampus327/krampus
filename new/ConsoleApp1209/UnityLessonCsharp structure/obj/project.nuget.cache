@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PtEDyieFMtMxJ6oS2P+mkCO/Q+Nf+L2CUEBxIqcX+i/T+G7vjnf8VC9RDqng9aEFOM2G4Z/CtFnisnLkhOcQdw==",
+  "dgSpecHash": "VD37am4HUb/LJWP0zoChlqU494TPWPJV5ACOFfhAxq1MgLvV/PRONIVJXzu33HSwkXoNro24hAUaYStRc5KzTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\krampus\\new\\ConsoleApp1209\\UnityLessonCsharp structure\\UnityLessonCsharp structure.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

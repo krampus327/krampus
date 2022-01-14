@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZEd4eCU0s4yHsGi0HgyPx3hYrvDfeR4IQw1sahRzch7F/SxxU1xNPki9VWppxYamn8l5qELicr8m91MC7vXLyA==",
+  "dgSpecHash": "26Um0XUzH+P4slK1zYKV/ruX0rsQcytNu7D5fwFH80q1G69Cux7ntIi+/L99j0IX7wKaB+9Xav3y6MdeLb8iJA==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\krampus\\new\\ConsoleApp1209\\C샵 array\\C샵 array.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

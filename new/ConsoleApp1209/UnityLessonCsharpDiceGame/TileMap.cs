@@ -13,9 +13,9 @@ namespace UnityLessonCsharpDiceGame
         // maxTileNum만큼 칸을 생성하는 함수
         public void MapSetup(int maxTileNum)
         {
-            for (int i = 0; i < maxTileNum; i++)
+            for (int i = 1; i <= maxTileNum; i++)
             {
-                if (i / 5 == 0)
+                if (i % 5 == 0)
                 {
                     // 샛별칸 생성
                     TileInfo Tileinfo_Star = new TileInfo_Star();
@@ -35,7 +35,7 @@ namespace UnityLessonCsharpDiceGame
                 }
 
             }
-            Console.WriteLine($"Map setup complete. Maximum tile number is{maxTileNum}");
+            Console.WriteLine($"Map setup complete. Maximum tile number is {maxTileNum}");
         }
     }
 }

@@ -60,7 +60,12 @@
       "ProjectGuid": "ee936570-8f2f-4353-bd6d-e8167ad86bc2",
       "DisplayName": "UnityLessonCsharpClassInheritance",
       "ColorIndex": 11
+    },
+    "1a9d49d5-5bd0-4f06-9885-e544370ad9d8": {
+      "ProjectGuid": "1a9d49d5-5bd0-4f06-9885-e544370ad9d8",
+      "DisplayName": "ConsoleApp1209-1",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }
